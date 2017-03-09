@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidBeaconFinder</string>
+    <string name="ble_not_supported">BLE Not supported on this device!</string>
 </resources>
