@@ -1,4 +1,4 @@
-package au.com.kurtsch.androidbeaconfinder;
+package au.com.kurtsch.ibeaconscanner;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("au.com.kurtsch.androidbeaconfinder", appContext.getPackageName());
+        assertEquals("au.com.kurtsch.ibeaconscanner", appContext.getPackageName());
     }
 }

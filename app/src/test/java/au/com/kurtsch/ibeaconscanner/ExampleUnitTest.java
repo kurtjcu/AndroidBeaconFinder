@@ -1,4 +1,4 @@
-package au.com.kurtsch.androidbeaconfinder;
+package au.com.kurtsch.ibeaconscanner;
 
 import org.junit.Test;
 
